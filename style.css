@@ -67,7 +67,7 @@ p {
   justify-content: right;
   align-content: right;
 
-  width: 40%;
+  min-width: 25%;
 }
 #left {
   font-size: small;
